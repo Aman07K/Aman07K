@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rajputamansingh037@gmail.com**
 
-- ⚡ Fun fact **I love my coffiee with code**
+- ⚡ Fun fact **I love my code with coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
