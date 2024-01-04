@@ -16,6 +16,8 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/aman-kumar037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aman-kumar037" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amansingh037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amansingh037" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/rajputamansingh037@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rajputamansingh037@gmail.com" height="30" width="40" /></a>
+  <a href="https://twitter.com/Singh07rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Singh07rajput" height="30" width="40" /></a>
+  <a href="https://instagram.com/a.m.a.n_rajput_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.m.a.n_rajput_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
