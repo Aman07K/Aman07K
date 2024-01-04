@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+g<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar222411&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar222411" /> </p>
 
-- 🌱 I’m currently learning **.Net,MongoDB,React**
+- 🌱 I’m currently learning <br> **.Net,MongoDB,React**
 
 - 💬 Ask me about **java,Full Stack Web Development,DBMS,Opps,Cloud Computing**
 
-- 📫 How to reach me **rajputamansingh037@gmail.com**
+- 📫 How to reach me <br> **rajputamansingh037@gmail.com**
 
-- ⚡ Fun fact **I love my code with coffee**
+- ⚡ Fun fact <br> **I love my code with coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
